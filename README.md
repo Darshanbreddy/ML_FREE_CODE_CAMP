@@ -18,9 +18,29 @@ SUPERVISED LEARNING:
 
 METRICS OF PERFORMENCE:
 
+True Positive (TP) – Predicted positive and actually positive.
+False Positive (FP) – Predicted positive but actually negative.
+True Negative (TN) – Predicted negative and actually negative.
+False Negative (FN) – Predicted negative but actually positive.
+
+A quick memory trick:
+First word (True/False) → Was the prediction correct?
+Second word (Positive/Negative) → What was the predicted label?
 LOSS- Diffrence between predicited value and actual values
 
 ACCURACY-THe actaul % of values model got right.
+1. Precision – Of all the samples predicted positive, how many were actually positive?
+2. Recall – Of all the samples that are actually positive, how many did I correctly predict as positive?
+3. F1 Score – Harmonic mean of Precision and Recall, balancing both.
+
+KNN algorithm: If it is a binary classification we need a distance so we can use eculidan distance. What is K it is how many nebhiours are using to jurdge what the class is.
+
+Naive Bayes: It is a simple, fast, and surprisingly effective machine learning algorithm used for classification — deciding which “category” something belongs to. It’s based on Bayes’ Theorem, which is about updating your belief when you get new evidence.
+
+Logistic Regression: It is a way for a computer to predict a yes/no outcome based on some information (features). It doesn’t give just “yes” or “no” — it first gives a probability, then decides yes/no based on that. Sigmod function
+
+SVM: It is a machine learning algorithm that tries to separate data into classes by drawing the best possible boundary between them. In 2D it is a line, In 3D it is a plain
+
 
 
 
