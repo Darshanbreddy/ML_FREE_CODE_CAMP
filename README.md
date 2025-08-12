@@ -47,6 +47,18 @@ REGRESSIO ALGO:
 
 Residual/ Error: How far off is the prediction from the data point we already have.
 
+Linear Regression.ipynb file explanation(Dataset Creation & Visualization Generates a synthetic dataset (House Size → Price) with realistic noise. Plots the data points so you can visually understand the relationship.
+
+Gradient Descent Intuition
+Explains slope direction:
+Positive slope → decrease it.
+Negative slope → increase it.
+Shows cost decreasing as we move towards the global minima.
+
+Finding the Best Fit Line: Runs Gradient Descent for multiple epochs until it converges. Plots the final regression line over the dataset.
+
+R² (Coefficient of Determination), Calculates R² for a model with one feature, Adds a correlated feature and shows how R² increases, Adjusted R², Adds a random (useless) feature to show how R² can still increase. Calculates Adjusted R² to demonstrate how it penalizes useless features.)
+
 
 
 
