@@ -59,6 +59,16 @@ Finding the Best Fit Line: Runs Gradient Descent for multiple epochs until it co
 
 R² (Coefficient of Determination), Calculates R² for a model with one feature, Adds a correlated feature and shows how R² increases, Adjusted R², Adds a random (useless) feature to show how R² can still increase. Calculates Adjusted R² to demonstrate how it penalizes useless features.)
 
+Logistic Regression.ipynb file explanation
+Dataset Creation & Visualization: Generates a synthetic binary classification dataset (e.g., Study Hours & Sleep Hours → Pass or Fail). Plots the points in two colors so you can visually see the separation between the two classes.
+
+Why Linear Regression Fails for Classification: Demonstrates how Linear Regression can produce invalid probability values (<0 or >1) and is sensitive to outliers, making it unsuitable for binary classification.
+
+Overfitting & Underfitting Intuition: Uses a simple plot to explain how an overly simple model (underfitting) or an overly complex model (overfitting) can both fail to generalize well.
+
+Training Logistic Regression Model: Fits a Logistic Regression model to the dataset, calculates the decision boundary, and plots it to show how the model separates the two classes.
+
+Confusion Matrix: Generates a confusion matrix to evaluate the model’s predictions, showing True Positives, False Positives, True Negatives, and False Negatives for better understanding of model accuracy.
 
 
 
