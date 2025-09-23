@@ -1,5 +1,7 @@
 # ML_FREE_CODE_CAMP
 
+This repo includes ML course materials I used from youtube videos on the channel Free_code_camp and ML specialization from Andrew Ng
+
 What is Machine Learning: The ability of computer to learn from data with the use of algorithms, without the programer telling the computer what excatly to do(explicit programming)
 
 TYPES OF ML: Supervised- The input will have corresponding output labels, Training the models to learn the output.
